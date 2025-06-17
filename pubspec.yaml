@@ -1,7 +1,9 @@
 name: speed_temp_slider
 description: "A beautiful temperature and speed slider plugin for Flutter!"
 version: 0.0.1
-homepage:
+homepage: https://github.com/algrassi/speed_temp_slider
+repository: https://github.com/algrassi/speed_temp_slider
+issue_tracker: https://github.com/algrassi/speed_temp_slider/issues
 
 environment:
   sdk: ^3.8.1
