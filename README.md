@@ -188,4 +188,4 @@ If you find this plugin helpful, please give it a ⭐ on [GitHub](https://github
 
 ---
 
-Made with ❤️ by [Your Name](https://github.com/algrassi)
+Made with ❤️ by [Alessandro Grassi](https://github.com/algrassi)
